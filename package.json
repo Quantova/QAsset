@@ -1,6 +1,6 @@
 {
   "name": "@quantovainc/qasset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quantum secure provenance and title registry records for real world assets. Proves the registration custody transfer and retirement of land vehicles equipment and artworks, with ML-DSA-65 under FIPS 204 and Quantova time proofs. No holder data ever leaves the party that holds it.",
   "main": "index.js",
   "types": "index.d.ts",
